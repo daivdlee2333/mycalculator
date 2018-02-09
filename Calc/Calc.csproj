@@ -98,6 +98,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="语法分析\LabeledExpr.g4" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
